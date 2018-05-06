@@ -1,6 +1,6 @@
 ---
 title: Who is Derek Wang?
-teaser: These sample posts are provided as a template for creating your own content.
+teaser: Strong coding skills. Strong math background. Fast learner. High EQ and good at dealing with people. Have a look at my projects in [Github account][kds]
 category: Biography
 tags: [markdown, workflow, foss]
 reddit_post: 'https://www.reddit.com/r/Jekyll/comments/6258ln/welcome_to_solana/'
@@ -20,7 +20,7 @@ Consult the official [kramdown syntax reference][kds] for an exhaustive list of 
 [^1]:
     Such as footnotes.
 
-[kd]: http://kramdown.gettalong.org/
+[kd]: https://github.com/Fancy7777
 [rd]: https://github.com/davidfstr/rdiscount
 [rc]: https://github.com/vmg/redcarpet
 [kds]: https://kramdown.gettalong.org/syntax.html
