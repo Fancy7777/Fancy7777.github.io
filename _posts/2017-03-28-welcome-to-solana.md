@@ -1,6 +1,6 @@
 ---
 title: Who is Derek Wang?
-teaser: Strong coding skills. Strong math background. Fast learner. High EQ and good at dealing with people. Have a look at my projects in Github account: https://github.com/Fancy7777
+teaser: These sample posts are provided as a template for creating your own content.
 category: Biography
 tags: [markdown, workflow, foss]
 reddit_post: 'https://www.reddit.com/r/Jekyll/comments/6258ln/welcome_to_solana/'
